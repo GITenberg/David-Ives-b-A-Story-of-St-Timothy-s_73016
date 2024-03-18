@@ -5,6 +5,9 @@ contributor:
     agent_name: Wood, Franklin
     gutenberg_agent_id: '56909'
     url: http://www.gutenberg.org/2009/agents/56909
+covers:
+- cover_type: archival
+  image_path: 73016-h/images/cover.jpg
 creator:
   author:
     agent_name: Pier, Arthur Stanwood
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '7439'
     url: http://www.gutenberg.org/2009/agents/7439
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73016#David-Ives-b-A-Story-of-St-Timothy-s
 gutenberg_issued: '2024-02-22'
 gutenberg_type: Text
 identifiers:
